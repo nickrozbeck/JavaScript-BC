@@ -1,0 +1,60 @@
+table {
+    font-family: 'Merriweather', serif;
+    table-layout: auto;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.container{
+    text-align: center;
+    width:auto;
+    width: 100%;
+    
+}
+.periods {
+    font-size: 15px;
+    font-weight: 200;
+}
+
+.section {
+    font-size: 15px;
+    font-weight: 600;
+
+}
+.elements{
+    width: 100%;
+}
+
+.s_element {
+    font-size: 25px;
+    font-weight: 600;
+    background-color: pink;
+}
+
+.p_element {
+    font-size: 25px;
+    font-weight: 600;
+    background-color: yellow;
+}
+
+.d_element {
+    font-size: 25px;
+    font-weight: 600;
+    background-color: skyblue;
+}
+
+.oxides {
+    text-align: center;
+    font-size: 12px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.pantanoids {
+    font-size: 15px;
+    font-weight: 300;
+    background-color: green;
+}
+.pant{
+    background-color: white;
+}
