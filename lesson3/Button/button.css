@@ -1,0 +1,62 @@
+button {
+    background-color: #6C5CE7;
+    height: 48px;
+    width: 184px;
+    border-radius: 16px;
+    text-align: right;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+
+}
+
+.button-search span {
+    margin-left: 25px;
+}
+
+.sign {
+    margin-left: 18px;
+}
+
+.sign1 {
+    position: absolute;
+    margin-top: 8px;
+    margin-left: 34px;
+    width: 4.35px;
+    height: 4.35px;
+}
+
+.button2 {
+    background-color: #6C5CE7;
+    height: 48px;
+    width: 184px;
+    border-radius: 16px;
+    text-align: right;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+    color: #FFFFFF;
+
+}
+.button2 span{
+    margin-left: 15px;
+    
+}
+.strelka{
+    margin-left: 10px;
+}
+.strelka_1{
+    position: absolute;
+    margin-left: 140px;
+}
